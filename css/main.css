@@ -1,0 +1,300 @@
+body{
+	background : #4c4c4c;
+	font-family: Verdana, helvetica, arial, sans-serif;
+}
+
+form#tag_search_form{
+	padding-left : 72%;
+}
+
+input#tag_search_form{
+	width:40px;
+	height:23px;
+	cursor:pointer;
+	background:#7C7C7C;
+	border:none;
+	color:white;
+	font-weight : bold;
+}
+
+input#tag_search_form:hover{
+	background :white;
+	border : 2px solid #2e3436;
+	color : #2a5fa3;
+	font-weight : bold;
+}
+
+input#tag_search_text{
+	border : 1px solid #A5A5A5;
+	height : 22px;
+}
+
+li#img.selected{
+	border : 3px solid #0087C1;
+	
+}
+
+li#img:hover{
+	cursor : pointer;
+		border : 3px solid #DCC00A;
+}
+
+.wrap-loading{ /*화면 전체를 어둡게 합니다.*/
+    position: fixed;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    background: rgba(0,0,0,0.9); /*not in ie */
+    filter: progid:DXImageTransform.Microsoft.Gradient(startColorstr='#20000000', endColorstr='#20000000');    /* ie */
+}
+
+.wrap-loading div{ /*로딩 이미지*/
+        position: fixed;
+        top:50%;
+        left:50%;
+        margin-left: -21px;
+        margin-top: -21px;
+}
+
+    .display-none{ /*감추기*/
+        display:none;
+    }
+
+a{
+    color :  #555753;
+	text-decoration:none;
+}
+
+a:hover{
+	color : #0087C1;
+	text-decoration:none;
+}
+
+a:visited{
+	text-decoration:none;
+}
+
+input.update{
+	width:70px;
+	height:23px;
+	cursor:pointer;
+	background:#98BAE4;
+	border:none;
+	color:white;
+	font-weight : bold;
+}
+
+input.update:hover{
+	background :white;
+	border : 2px solid #2a5fa3;
+	color : #2a5fa3;
+	font-weight : bold;
+}
+
+.header{
+    width:auto;
+    height : 130px;
+    text-align:left;
+    background-color :#057ff8;
+    padding-left: 30px;
+    margin-bottom : -20px;
+    margin-top : -40px;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.line2{
+	background :#EDEDED;
+	border-radius : 10px; 
+	width : 96.5%;
+	height : auto;
+	margin-top : 35px;
+	margin-left : 20px;
+	margin-bottom : 20px;	
+	padding-top : 35px;
+	padding-left : 30px;
+	float : left;
+  /*  width: auto;
+    font-family: "Open Sans", Arial, sans-serif;
+*/
+}
+
+.col1{
+	float : left;
+	width : 250px;;
+	padding-top : 10px;
+	padding-left : 0px;
+	padding-right : 40px;
+}
+
+select#sel{
+    width : 230px;
+    border : solid 2px #8a8a8a;
+    border-radius : 10px;
+    background-color:none;
+    color : #555753;
+    padding: 6px;
+    font-size:14px;
+    font-weight: bold;
+
+}
+select{
+-webkit-appearance : menulist !important;	
+}
+
+.menu{
+    /*float:left;*/
+    width : 250px;
+    height : 780px;
+    margin-top : 30px;
+    float : left;
+}
+
+select::-ms-expand { display: none; }
+
+.col2{
+	float : left;
+	width : 70%;
+	margin-top : 0%;
+}
+
+#gallery{
+	float : left;
+	width : 100%;
+}
+
+#img{
+	float : left;
+	width : 100%;
+}
+
+#path{
+    color : #2A5FA3;
+    border-bottom : 3px double #e2b41b;
+}
+
+#full_path{
+border-bottom : 2px solid #babdb6;
+width:300px;
+font-size:14px;
+color : #555753 ;
+margin-top : -10px;
+margin-bottom:15px; 
+padding-bottom:10px;
+word-break:break-all;
+}
+
+.clear{
+    clear : left;
+}
+
+.main{
+	padding : 10px;
+	margin-left : 18%;
+	width : auto;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.scrollToTop{
+    text-align:center; 
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+    position:fixed;
+    bottom:20px;
+    right:40px;
+    display:none;
+}
+
+.scrollToTop:hover{
+    text-decoration:none;
+}
+
+.section {
+	float : left;
+	height : 100px;
+	margin-left : 2%;
+	margin-top : -90px;
+	font-size : 15px;
+	color : #949191;
+}
+
+.section input[type="radio"],
+.section input[type="checkbox"]{
+	float : left;
+  display: none;
+}
+
+.container {
+float : left;
+	margin-bottom: 10px;
+}
+
+.container label {
+	float : left;
+ 	position: relative;
+	margin : 40px;
+
+}
+
+/* Base styles for spans */
+.container span::before,
+.container span::after {
+	float : left;
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+/* Radio buttons */
+.container span.radio:hover {
+  cursor: pointer;
+}
+
+.container span.radio::before {
+
+  left: -52px;
+  width: 45px;
+  height: 25px;
+  background-color:#CFE3FF;
+  border-radius: 50px;
+}
+
+.container span.radio::after {
+  left: -49px;
+  width: 17px;
+  height: 17px;
+  border-radius: 10px;
+  background-color:#89B5EE;
+  transition: left .25s, background-color .25s;
+}
+
+input[type="radio"]:checked + label span.radio::after {
+  left: -27px;
+  background-color:#99cbff;
+}
+
+input#chk{
+	width : 100px;
+	height : 28px;
+	background : #0087C1;
+	color : white;
+ 	border : none;
+ 	font-weight : bold;
+ 	font-size:16px;
+}
+input#chk:hover{
+	width : 100px;
+	height : 28px;
+	background : white;
+	border : 3px solid #0087C1;
+	color :#0087C1;
+}
+/*
+.text_dept{
+	background : red;
+}
+
+float tree*/

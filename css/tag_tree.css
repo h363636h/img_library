@@ -1,0 +1,105 @@
+ul#tree{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	cursor : hand;
+	height : 600px;
+	overflow-x : scroll;
+   	overflow-y : scroll;
+
+}
+li.dept{
+	position:relative;
+}
+
+li.dept:hover input{
+	display : block;
+}
+
+li.dept input{
+	position:absolute;
+	display:none;
+}
+
+li.dept input.update{
+	top:0%;
+	right : 18%;
+}
+
+li.dept input.delete{
+	top:0%;
+	right :7%;
+}
+
+li.tag{
+	position:relative;
+}
+
+li.tag:hover input{
+	display : block;
+}
+
+li.tag input{
+	position:absolute;
+	display:none;
+}
+
+li.tag input.update{
+	top:0%;
+	right : 18%;
+}
+
+li.tag input.delete{
+	top:0%;
+	right :7%;
+}
+
+
+div.main:hover input{
+	display : block;
+}
+div.main input{
+	position : absolute;
+	display : none;
+}
+
+div.main input.update{
+	top : 10%;
+	right:15%;
+}
+
+div.main input.delete{
+	top:10%;
+	right : 7%;
+}
+
+
+/**
+
+li.sub{
+	width: 200px;
+	margin-left : 40px;
+	list-style : none;
+	position : relative;
+}
+
+li.sub:hover input{
+	display : block;
+	top:0%;
+	right:-10%;
+}
+
+li.sub input{
+	display : none;
+		position : absolute;
+}
+
+li.sub input.update{
+	right:15%;
+}
+
+li.sub input.delete{
+	right:2%;
+}
+
+**/

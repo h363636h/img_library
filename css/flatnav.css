@@ -1,0 +1,118 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	color : white;
+	padding-left : 50px;
+	font-size : 27px;
+	font-weight : bold;
+	float:left;
+}
+
+.login{
+	padding-left : 95%;
+}
+
+.nav li {
+	float: left;
+	list-style-type: none;
+	width : 100px;
+	/*position: relative;*/
+}
+
+.nav li a {
+	font-size: 16px;
+	color: white;
+	display: block;
+	line-height: 40px;
+	padding: 10px 30px 40px 30px;
+	text-decoration: none;
+	/*border-left: 1px solid #1178F8;*/
+	font-family: Montserrat, sans-serif;
+	/*text-shadow: 0 0 1px rgba(255, 255, 255, 0.5);*/
+}
+.nav li a:hover {
+	background-color: #9cc8ff;
+	color : white;
+	height: 60px;
+}
+
+select#task{
+	margin-left : 5%;
+	height : 35px;
+	background : none;
+	color : white;
+	border-left : none;
+	border-bottom : none;
+	border-top : none;
+	border-right : solid 2px white;
+}
+select::-ms-expand{
+	padding : 20px;
+}
+
+#settings a {
+	padding: 25px;
+	height: 24px;
+	font-size: 10px;
+	line-height: 24px;
+}
+
+#search {
+	width: 360px;
+	height : 35px;
+	border : 2px solid white;
+	border-radius : 50px;
+	padding-top : -5px;
+	margin-left:62%;
+	/*padding-left: 600px;*/
+	margin-top: 13px;
+	margin-bottom: 4px;
+	margin-right : 4px;
+	/*margin-left : 600px;*/
+}
+
+#search_text{
+	width: 297px;
+	height : 40px;
+	padding: 0px 60px 150px 120px;
+	margin-top : -36px;
+
+	font-size: 16px;
+	font-family: Montserrat, sans-serif;
+	border: 0 none;
+	/*margin-right: 0;*/
+	color: white;
+	outline: none;
+	background: none;
+	float: left;
+	transition: all 0.15s;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+	color: white;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	color: white;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+	color: white;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+	color: white;
+}
+#search_text:focus {
+	background: none;
+}
+#search_button {
+	border: 0 none;
+	background:  url('../images/search.png') center no-repeat;
+	margin-top : -190px;
+	margin-left : 300px;
+	width: 60px;
+	float: left;
+	padding: 0;
+	text-align: center;
+	height: 40px;
+	cursor: pointer;
+}

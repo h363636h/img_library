@@ -1,0 +1,216 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0 auto !important;
+  background : #4c4c4c;
+  color :white;
+}
+
+.center {
+  text-align: center;
+}
+
+/* NAVIGATION */
+nav {
+  width: 60%;
+  height : 90px;
+  margin: 0 auto;
+  box-shadow: 0px 5px 0px white;
+}
+
+/* By Dominik Biedebach @domobch */
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+  padding: 30px;
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+  margin: 5px;
+}
+nav ul li a,
+nav ul li a:after,
+nav ul li a:before {
+  transition: all .4s;
+}
+nav ul li a:hover {
+  color: #555;
+}
+
+
+/* SHIFT */
+nav.shift ul li a {
+  position:relative;
+  z-index: 1;
+}
+nav.shift ul li a:hover {
+  color: #00b2ff;
+}
+nav.shift ul li a:after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 100%;
+  height: 1px;
+  content: '.';
+  color: transparent;
+  background: none;
+  visibility: none;
+  opacity: 0;
+  z-index: -1;
+}
+nav.shift ul li a:hover:after {
+  opacity: 1;
+  visibility: visible;
+  height: 100%;
+}
+
+
+/* Keyframes */
+@-webkit-keyframes fill {
+  0% {
+    width: 0%;
+    height: 1px;
+  }
+  50% {
+    width: 100%;
+    height: 1px;
+  }
+  100% {
+    width: 100%;
+    height: 100%;
+    background: #2ECC71;
+  }
+}
+
+/* Keyframes */
+@-webkit-keyframes circle {
+  0% {
+    width: 1px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    height: 1px;
+    z-index: -1;
+    background: #eee;
+    border-radius: 100%;
+  }
+  100% {
+    background: #aaa;
+    height: 5000%;
+    width: 5000%;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 0;
+  }
+}
+/* By Dominik Biedebach @domobch */
+
+table{
+	width : 1000px;
+	height : auto;
+	
+	border-top : 1px solid #0087C1;
+	border-bottom : 7px solid #0087c1;
+
+	text-align : center;
+	border-collapse:collapse;
+	
+	padding-right : 500px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+th{
+	background : #0087C1;
+	border-bottom : 1px solid #0087C1;
+	height : 40px;
+}
+td:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+td{
+	border-bottom : 1px solid #0087C1;
+	width : auto;
+	padding-left : 20px;
+	padding : 10px;
+}
+td#num{
+	padding : 20px;
+	background : #434343;
+	
+}
+td#img{
+	width : 100px;
+}
+td#sub{
+	text-align : left;
+	width : 50px;
+	background : #434343;
+	
+}
+
+
+.wrap-loading{ /*화면 전체를 어둡게 합니다.*/
+    position: fixed;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    background: rgba(0,0,0,0.5); /*not in ie */
+    filter: progid:DXImageTransform.Microsoft.Gradient(startColorstr='#20000000', endColorstr='#20000000');    /* ie */
+}
+.wrap-loading div{ /*로딩 이미지*/
+        position: fixed;
+        top:50%;
+        left:50%;
+        margin-left: -21px;
+        margin-top: -21px;
+}
+    .display-none{ /*감추기*/
+        display:none;
+    }
+
+    
+    a{ 
+    text-decoration:none;
+    }
+    .paging:hover{
+    padding-left : 15px;
+    padding-top : 12px;
+    padding-right : 15px;
+    padding-bottom : 12px;
+    border-radius : 120px;
+    background :#d3b51a;
+    margin:15px;
+    }
+    .paging{
+    margin:15px;
+    }
+    .select{
+    padding-left : 15px;
+    padding-top : 12px;
+    padding-right : 15px;
+    padding-bottom : 12px;
+    border-radius : 120px;
+    background :#d3b51a;
+    }
+    
+    .update_button{
+    float : left;
+    padding-left : 70%;
+    }

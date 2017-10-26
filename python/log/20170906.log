@@ -1,0 +1,589 @@
+=========2017-09-06 11:22:18.792239=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 11:28:50.162210=========
+tbd
+folder exists
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wc/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wmo/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_m/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/lo'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_wmo/md'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/ph'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/xhi'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/prop/pr_arrow/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+ch_2wmo
+ch_2yz
+ch_3wc
+ch_3wmo
+ch_cave_hacker_m
+ch_cave_hacker_wm
+ch_cave_wmo
+max() arg is an empty sequence
+en_2cliff
+pr_arrow
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+=========2017-09-06 12:06:37.631608=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 12:12:58.587444=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 12:21:21.884712=========
+tbd
+folder exists
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wc/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wmo/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_m/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/lo'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_wmo/md'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/ph'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/xhi'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/prop/pr_arrow/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 12:34:05.002381=========
+tbd
+folder exists
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wc/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wmo/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_m/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/lo'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_wmo/md'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/ph'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/xhi'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/prop/pr_arrow/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 14:29:45.081345=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 14:47:07.581291=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 15:01:19.302516=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+[Errno 28] No space left on device
+=========2017-09-06 15:35:37.967553=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 15:40:01.110430=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 15:51:46.111021=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 16:07:51.425972=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 17:01:24.763340=========
+tbd
+folder exists
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2wmo/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_2yz/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wc/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_3wmo/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_m/lo'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/md'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_hacker_wm/lo'
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/char/ch_cave_wmo/md'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/ph'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/env/en_2cliff/xhi'
+[]
+[Errno 17] File exists: '//home/crystal/Desktop/project_test/tbd/prop/pr_arrow/md'
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None
+=========2017-09-06 18:01:36.867581=========
+tbd
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/md/shader/ch_2wmo_v01.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/lo/shader/ch_2wmo_v01.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/ch_2wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/ch_2yz_md.pngNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v04.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/md/shader/ch_2yz_v05.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v02.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v03.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_2yz/lo/shader/ch_2yz_v04.xml']
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/md/shader/ch_3wc_v02.xml']
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/ch_3wc_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wc/Thumbs.dbNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/ch_3wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_3wmo/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/ch_cave_hacker_m_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/Thumbs.dbNone
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_m/lo/shader/ch_cave_hacker_m_v01.xml']
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_md.pngNone
+[]
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/ch_cave_hacker_wm_lo.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_hacker_wm/Thumbs.dbNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/ch_cave_wmo_md.pngNone
+//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/char/ch_cave_wmo/Thumbs.dbNone
+[]
+[]
+[]
+['//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.ma', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v01.xml', '//home/crystal/Desktop/test_iu/project/tbd/assets/lookdev/prop/pr_arrow/md/shader/pr_arrow_v02.xml']
+max() arg is an empty sequence
+//home/crystal/Desktop/test_iu/project/tbd/assets/model
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/ch_cave_wmo_md.png=>None
+//home/crystal/Desktop/test_iu/project/tbd/assets/texture/char/ch_cave_wmo/Thumbs.db=>None

@@ -1,0 +1,92 @@
+/* Add here all your CSS customizations */
+
+.logo-second{
+	position:absolute;
+	font-size:36px;
+	font-weight:bold;
+	top:22px;
+	left:165px;
+}
+
+.effects_buttons_wrapper{
+ 	margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.effects_buttons_wrapper input {
+	border:1px solid #BFBFBF;
+	padding:6px;
+	margin-bottom:10px;	
+	margin-right:5px;
+	color:#000000;
+	font-size:14px;
+	
+	background: #F5F6F6; 
+	background-image: -webkit-linear-gradient(top, #F5F6F6, #EBEBEB);
+	background-image: -moz-linear-gradient(top, #F5F6F6, #EBEBEB);
+	background-image: -ms-linear-gradient(top, #F5F6F6, #EBEBEB);
+	background-image: -o-linear-gradient(top, #F5F6F6, #EBEBEB);
+	background-image: linear-gradient(to bottom, #F5F6F6, #EBEBEB);	
+}
+
+.effects_buttons_wrapper input:hover{
+	background: #EBEBEB;
+	background-image: -webkit-linear-gradient(top, #EBEBEB, #EBEBEB);
+	background-image: -moz-linear-gradient(top, #EBEBEB, #EBEBEB);
+	background-image: -ms-linear-gradient(top, #EBEBEB, #EBEBEB);
+	background-image: -o-linear-gradient(top, #EBEBEB, #EBEBEB);
+	background-image: linear-gradient(to bottom, #EBEBEB, #EBEBEB);	
+ }
+ 
+ .effects_buttons_wrapper input.selected{
+	border-color:#2f5e87;
+	background: #50A2EE;
+	background-image: -webkit-linear-gradient(top, #50A2EE, #4181ba);
+	background-image: -moz-linear-gradient(top, #50A2EE, #4181ba);
+	background-image: -ms-linear-gradient(top, #50A2EE, #4181ba);
+	background-image: -o-linear-gradient(top, #50A2EE, #4181ba);
+	background-image: linear-gradient(to bottom, #50A2EE, #4181ba);	
+	color:#ffffff;
+ }
+ 
+ 
+#nav-links{
+	position:absolute;
+	top:-6px;
+	left:206px;
+}
+
+#nav-links-menu > li > a{
+	color:#4E4C4C !important;
+	text-transform: none !important;
+	font-size:14px !important;
+}
+
+@media only screen and (max-width: 480px){
+
+	#nav-links{
+		display:none;
+	}
+	
+}
+
+@media only screen and (max-width: 1200px){
+
+	#nav-links{
+		top:24px;
+	}
+	
+}
+
+
+#link_download{
+	background-color:#CB1B1B;
+	color:#ffffff !important;
+}
+
+#link_download:hover{
+	background-color:#E43232;
+}
+
+
